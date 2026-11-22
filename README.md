@@ -1,10 +1,10 @@
-# 🌮 Hermanito Cocina Mexicana
+# 🌮 Hermanito Comida Mexicana
 
 Site institucional para restaurante mexicano
 
-O Hermanito Cocina Mexicana é um projeto desenvolvido com o objetivo de apresentar o restaurante, seus pratos e sua identidade visual por meio de uma página institucional.
+O Hermanito Comida Mexicana é um projeto desenvolvido com o objetivo de apresentar o restaurante, seus pratos e sua identidade visual por meio de uma página institucional.
 
-🔗 [**Acessar o site**]([COLE_AQUI_O_LINK_DO_SITE](https://hermanitocajamar.lovable.app))
+🔗 [**Acessar o site**]([https://hermanitocajamar.lovable.app])
 
 ## 📖 Sobre o projeto
 
@@ -45,15 +45,23 @@ Também trabalhei na organização das informações para facilitar a navegaçã
 
 **Página inicial**
 
-Adicione aqui a imagem da página inicial.
+<img width="1920" height="3622" alt="image" src="https://github.com/user-attachments/assets/f5a2481c-7b88-4b4a-a6d8-937fc7f7a3fd" />
+
 
 **Cardápio**
 
-Adicione aqui a imagem do cardápio.
+<img width="1920" height="4980" alt="image" src="https://github.com/user-attachments/assets/274d152b-1b0a-4613-9c35-861b5bae70b8" />
+
+
+**Sobre nós**
+
+<img width="1920" height="2438" alt="image" src="https://github.com/user-attachments/assets/d412b19d-7566-4a11-8934-36c01e1c823b" />
+
 
 **Contato**
 
-Adicione aqui a imagem da página de contato.
+<img width="1920" height="1566" alt="image" src="https://github.com/user-attachments/assets/6cb861f6-3d33-4e5a-aa62-9e3f77bba458" />
+
 
 ## 📚 Aprendizados
 
