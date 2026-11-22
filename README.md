@@ -4,7 +4,7 @@ Site institucional para restaurante mexicano
 
 O Hermanito Comida Mexicana é um projeto desenvolvido com o objetivo de apresentar o restaurante, seus pratos e sua identidade visual por meio de uma página institucional.
 
-🔗 [**Acessar o site**]([https://hermanitocajamar.lovable.app])
+🔗 [**Acessar o site**](https://hermanitocajamar.lovable.app)
 
 ## 📖 Sobre o projeto
 
